@@ -1,50 +1,4 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "uglify-js-harmony@2.7.5",
-        "scope": null,
-        "escapedName": "uglify-js-harmony",
-        "name": "uglify-js-harmony",
-        "rawSpec": "2.7.5",
-        "spec": "2.7.5",
-        "type": "version"
-      },
-      "C:\\code\\Relationships\\src\\ChromeExtension\\app"
-    ]
-  ],
-  "_from": "uglify-js-harmony@2.7.5",
-  "_id": "uglify-js-harmony@2.7.5",
-  "_inCache": true,
-  "_location": "/uglify-js-harmony",
-  "_nodeVersion": "6.7.0",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/uglify-js-harmony-2.7.5.tgz_1487461276594_0.8200916193891317"
-  },
-  "_npmUser": {
-    "name": "hamo_sapience",
-    "email": "aisseday@gmail.com"
-  },
-  "_npmVersion": "3.10.9",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "uglify-js-harmony@2.7.5",
-    "scope": null,
-    "escapedName": "uglify-js-harmony",
-    "name": "uglify-js-harmony",
-    "rawSpec": "2.7.5",
-    "spec": "2.7.5",
-    "type": "version"
-  },
-  "_requiredBy": [
-    "#DEV:/"
-  ],
-  "_resolved": "http://build.neednudge.com:4873/uglify-js-harmony/-/uglify-js-harmony-2.7.5.tgz",
-  "_shasum": "48a99a9f62c8247f1e63e9ef9020b2d7cc1fd6e7",
-  "_shrinkwrap": null,
-  "_spec": "uglify-js-harmony@2.7.5",
-  "_where": "C:\\code\\Relationships\\src\\ChromeExtension\\app",
   "author": {
     "name": "Mihai Bazon",
     "email": "mihai.bazon@gmail.com",
@@ -105,7 +59,7 @@
       "email": "aisseday@gmail.com"
     }
   ],
-  "name": "uglify-js-harmony",
+  "name": "uglify-js",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
